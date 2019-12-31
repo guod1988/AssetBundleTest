@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 996906588
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assets/res/a.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: assets/res/m.unity3d
+      Dependencies:
+        Dependency_0: assets/res/a.unity3d
+        Dependency_1: assets/res/b.unity3d
+    Info_2:
+      Name: assets/res/b.unity3d
+      Dependencies: {}

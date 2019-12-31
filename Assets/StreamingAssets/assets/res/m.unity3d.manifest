@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 915016679
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9f7d593998caafdd71eb0c35e56672ea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe397485c3cec1106b49e9ff95e8f8a2
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Res/m/b.mat
+- Assets/Res/m/a.mat
+Dependencies:
+- F:/_U3D Projects/AssetBundleTest/Assets/StreamingAssets/assets/res/b.unity3d
+- F:/_U3D Projects/AssetBundleTest/Assets/StreamingAssets/assets/res/a.unity3d
